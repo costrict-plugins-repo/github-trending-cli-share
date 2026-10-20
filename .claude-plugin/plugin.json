@@ -1,0 +1,13 @@
+{
+  "name": "cli-share",
+  "version": "1.0.5",
+  "description": "Professional terminal conversation sharing for Claude Code.",
+  "author": {
+    "name": "Saurav Shakya",
+    "url": "https://github.com/saurav-shakya"
+  },
+  "homepage": "https://github.com/saurav-shakya/cli-share",
+  "repository": "https://github.com/saurav-shakya/cli-share",
+  "license": "MIT",
+  "keywords": ["share", "gist", "terminal", "capture"]
+}

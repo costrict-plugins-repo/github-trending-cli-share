@@ -1,0 +1,22 @@
+{
+  "name": "cli-share-marketplace",
+  "description": "Essential terminal sharing tools for Claude Code.",
+  "owner": {
+    "name": "Saurav Shakya",
+    "url": "https://github.com/saurav-shakya"
+  },
+  "plugins": [
+    {
+      "name": "cli-share",
+      "description": "Share your AI CLI conversations to GitHub Gists instantly with perfect formatting.",
+      "version": "1.0.5",
+      "source": {
+        "source": "github",
+        "repo": "saurav-shakya/cli-share",
+        "ref": "main"
+      },
+      "category": "utilities",
+      "tags": ["share", "gist", "terminal", "capture"]
+    }
+  ]
+}
